@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473364368003",
+    "firebase_url": "https://stilno-default-rtdb.firebaseio.com",
+    "project_id": "stilno",
+    "storage_bucket": "stilno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473364368003:android:762cafda543717d160e9b6",
+        "android_client_info": {
+          "package_name": "ml.pvstudio.sno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473364368003-8vig2v2n6ocg0ebs1mukrdso18m7d8op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBed_td3kTlTcGgdcRnMLmWs4LIZp6ONH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473364368003-8vig2v2n6ocg0ebs1mukrdso18m7d8op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
